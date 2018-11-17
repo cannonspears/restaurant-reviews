@@ -1,6 +1,6 @@
 # Restaurant Reviews
 
-A JavaScript project that creates a mobile and desktop friendly restaurant review website which meets accessiblity requirements and is usable offline. Udacity's Front-End Web Developer Nanodegree Capstone project.
+A JavaScript project that creates a mobile and desktop friendly restaurant review website which meets accessibility requirements and is usable offline. Udacity's Front-End Web Developer Nanodegree Capstone project.
 
 ---
 
